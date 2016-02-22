@@ -20,7 +20,17 @@
 - [ ] periodically check the MySQL accounts
 - [ ] use Two-Factor-Authentification
 - [ ] make us of `$_ENV[]`
-
+- [ ] provide CSRF/XSRF protected forms
+- [ ] hide vulnerable HTTP response header, e.g. *X-Powered-By*
+- [ ] only allow requests on URLs which exist, e.g. */wp-config* when you do not use WordPress
+- [ ] validate GET-Parameters
+- [ ] add a DMARC policy
+- [ ] set `X-Content-Type-Options: nosniff`
+- [ ] set `X-Frame-Options: DENY`
+- [ ] set `Content-Security-Policy: 'self'`
+- [ ] set `X-XSS-Protection: 1; mode=block`
+- [ ] set `Strict-Transport-Security: max-age=...`
+- [ ] set a DNS SPF entry
 
 #### External resources:
 - http://chxo.com/scripts/safe_html/index.html
