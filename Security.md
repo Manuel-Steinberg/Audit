@@ -20,7 +20,6 @@
 - [ ] periodically check the MySQL accounts
 - [ ] use Two-Factor-Authentification
 - [ ] make us of `$_ENV[]`
-- 
 
 
 #### External resources:
