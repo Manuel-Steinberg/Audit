@@ -18,7 +18,11 @@
 - [ ] the MySQL data directory should be only accessible from the server account.
 - [ ] protect PHP option files
 - [ ] periodically check the MySQL accounts
+- [ ] use Two-Factor-Authentification
+- [ ] make us of `$_ENV[]`
+- 
 
 
 #### External resources:
 - http://chxo.com/scripts/safe_html/index.html
+- http://www.phpgangsta.de/2-faktor-authentifizierung-mit-dem-google-authenticator
