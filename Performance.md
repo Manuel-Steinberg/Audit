@@ -10,4 +10,5 @@
   - `shell_exec`
   - `max_input_time`
   - `memory_limit`
+- [ ] use nginx instead of Apache
 
