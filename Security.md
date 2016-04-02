@@ -31,6 +31,7 @@
 - [ ] set `X-XSS-Protection: 1; mode=block`
 - [ ] set `Strict-Transport-Security: max-age=...`
 - [ ] set a DNS SPF entry
+- [ ] validate user input
 
 #### External resources:
 - http://chxo.com/scripts/safe_html/index.html
