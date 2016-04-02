@@ -13,4 +13,13 @@
 - [ ] use nginx instead of Apache
 - [ ] minimize JS/CSS
 - [ ] use Cache at a certain Level
-
+- [ ] use "===" instead of "=="
+- [ ] str_replace is faster than preg_replace, but strtr is faster than str_replace by a factor of 4
+- [ ] Pass reference to the function if it does not affect your logic
+- [ ] use memcache for the reducing database load and APC for opcode caching and intermediate code optimization
+- [ ] close database connections
+- [ ] reduce Number of hits to DB
+- [ ] put most frequently used switch/if-else cases on the top
+- [ ] use JSON instead of XML
+- [ ] use `isset()` where ever possible instead of using `count()`, `strlen()`, `sizeof()`
+- [ ] concat strings with points
