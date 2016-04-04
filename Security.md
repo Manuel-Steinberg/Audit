@@ -32,7 +32,10 @@
 - [ ] set `Strict-Transport-Security: max-age=...`
 - [ ] set a DNS SPF entry
 - [ ] validate user input
+- [ ] block *.git*-folder access via URL
+- [ ] disable server signatures
 
 #### External resources:
 - http://chxo.com/scripts/safe_html/index.html
 - http://www.phpgangsta.de/2-faktor-authentifizierung-mit-dem-google-authenticator
+- https://detectify.com/
