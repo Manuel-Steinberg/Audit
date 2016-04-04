@@ -23,3 +23,4 @@
 - [ ] use JSON instead of XML
 - [ ] use `isset()` where ever possible instead of using `count()`, `strlen()`, `sizeof()`
 - [ ] concat strings with points
+- [ ] use svg-icons
