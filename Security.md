@@ -16,14 +16,17 @@
 - [ ] disable file uplaods, when they´re not necessary
 - [ ] never run the server as root. Run as an ordinary unprivileged user!
 - [ ] the MySQL data directory should be only accessible from the server account.
+- [ ] use `mysql_real_escape_string()`
 - [ ] protect PHP option files
 - [ ] periodically check the MySQL accounts
 - [ ] use Two-Factor-Authentification
+- [ ] santisize any values being passed to your system
 - [ ] make us of `$_ENV[]`
 - [ ] provide CSRF/XSRF protected forms
 - [ ] hide vulnerable HTTP response header, e.g. *X-Powered-By*
 - [ ] only allow requests on URLs which exist, e.g. */wp-config* when you do not use WordPress
 - [ ] validate GET-Parameters
+- [ ] disable global variables
 - [ ] add a DMARC policy
 - [ ] set `X-Content-Type-Options: nosniff`
 - [ ] set `X-Frame-Options: DENY`
@@ -34,6 +37,29 @@
 - [ ] validate user input
 - [ ] block *.git*-folder access via URL
 - [ ] disable server signatures
+
+
+##### User Input
+###### Common threats:
+
+- input of specials chars, e.g. metacharacters
+- input of any kind of commands
+- input more signs than neccessary
+- input wrong type
+- manipulate hidden input fields
+
+#### Snippets:
+```php
+// set up array with expected data and types
+$form_data = array( 'city' => 'string'
+                   ,'zip'  => 'int');
+```
+```php
+// simple XSS-Prevention
+if ($_SERVER['HTTP_REFERRER'] != $_SERVER['HTTP_HOST']) {
+  exit('... Man-In-The-Middle ...');
+}
+```
 
 #### External resources:
 - http://chxo.com/scripts/safe_html/index.html
