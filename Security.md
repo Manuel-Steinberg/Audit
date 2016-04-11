@@ -37,6 +37,10 @@
 - [ ] validate user input
 - [ ] block *.git*-folder access via URL
 - [ ] disable server signatures
+- [ ] use strong encryption algorithms
+- [ ] use hash-function for salting
+- [ ] use delays for sensitive pages, e.g. login
+- [ ] set up notification center to get notified on possible attacks
 
 
 ##### User Input
