@@ -41,6 +41,7 @@
 - [ ] use hash-function for salting
 - [ ] use delays for sensitive pages, e.g. login
 - [ ] set up notification center to get notified on possible attacks
+- [ ] no passwords, tokens etc. in public repositories
 
 
 ##### User Input
