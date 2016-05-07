@@ -7,3 +7,4 @@
 - [ ] right click popups safe traveling distance with the mouse
 - [ ] popup elements should be ordered by plausability of clicking
 - [ ] use microinteractions wisely
+- [ ] good CSS doesn´t need _!important_ declaration
