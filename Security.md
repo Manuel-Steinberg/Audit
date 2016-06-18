@@ -42,6 +42,13 @@
 - [ ] use delays for sensitive pages, e.g. login
 - [ ] set up notification center to get notified on possible attacks
 - [ ] no passwords, tokens etc. in public repositories
+- [ ] use POST instead of GET-requests (Exception: Search)
+- [ ] use 2FA 
+- [ ] be scant with third party integrations
+- [ ] keep everything up-to-date
+- [ ] hack yourself before someone else will
+- [ ] use only reliable PSPs
+- [ ] force user to choose a strong password
 
 
 ##### User Input
