@@ -49,6 +49,7 @@
 - [ ] hack yourself before someone else will
 - [ ] use only reliable PSPs
 - [ ] force user to choose a strong password
+- [ ] use HSTS-Header when possible
 
 
 ##### User Input
