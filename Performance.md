@@ -23,4 +23,11 @@
 - [ ] use JSON instead of XML
 - [ ] use `isset()` where ever possible instead of using `count()`, `strlen()`, `sizeof()`
 - [ ] concat strings with points
-- [ ] use svg-icons
+- [ ] use `<svg>`-icons/graphics and so on
+- [ ] use the `<picture>`-HTML element (`<img>`as a fallback)
+- [ ] use lazy-load methods when possible
+
+
+##External Resources:
+
+- https://github.com/h5bp/server-configs-apache
