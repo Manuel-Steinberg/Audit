@@ -12,10 +12,15 @@
   - `memory_limit`
 - [ ] use nginx instead of Apache
 - [ ] minimize JS/CSS
-- [ ] use Cache at a certain Level
+- [ ] concat JS/CSS (less HTTP requests)
+- [ ] Gzip necessary to all assets
+- [ ] make use of CDN (be closer to the user)
+- [ ] keep `<meta charset="">` just below `<title>`
+- [ ] use Cache (`Expires` and `ETag` headers) at a certain Level
 - [ ] use "===" instead of "=="
 - [ ] str_replace is faster than preg_replace, but strtr is faster than str_replace by a factor of 4
 - [ ] Pass reference to the function if it does not affect your logic
+- [ ] keep JavaScript after the content
 - [ ] use memcache for the reducing database load and APC for opcode caching and intermediate code optimization
 - [ ] close database connections
 - [ ] reduce Number of hits to DB
@@ -26,8 +31,12 @@
 - [ ] use `<svg>`-icons/graphics and so on
 - [ ] use the `<picture>`-HTML element (`<img>`as a fallback)
 - [ ] use lazy-load methods when possible
+- [ ] inline critical CSS
+- [ ] use `Keep-Alive` header (less TCP connections)
+- [ ] minimize or stop redirects
 
 
 ##External Resources:
 
 - https://github.com/h5bp/server-configs-apache
+- https://www.smashingmagazine.com/2015/08/understanding-critical-css/
