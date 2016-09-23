@@ -9,6 +9,8 @@
 - [ ] set `session.use_only_cookies = 1`
 - [ ] set `session.cookie_httponly = 1`
 - [ ] set `session.cookie_secure = 1`
+- [ ] set `session.cookie_domain = YOURDOMAIN.TLD` (inclusive the respective subdomain)
+- [ ] set `session.cookie_path = /PATH/`
 - [ ] only allow https on your server
 - [ ] do not use the default name in `session.name`
 - [ ] set `session.use_trans_sid = 1`
