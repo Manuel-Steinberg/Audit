@@ -52,6 +52,7 @@
 - [ ] use only reliable PSPs
 - [ ] force user to choose a strong password
 - [ ] use HSTS-Header when possible
+- [ ] set `rel="noopener noreferrer"` in `<a target="_blank" ... />` 
 
 
 ##### User Input
@@ -74,6 +75,11 @@ $form_data = array( 'city' => 'string'
 if ($_SERVER['HTTP_REFERRER'] != $_SERVER['HTTP_HOST']) {
   exit('... Man-In-The-Middle ...');
 }
+```
+```js
+var newWnd = window.open();
+// reset the "opener" property
+newWnd.opener = null;
 ```
 
 #### External resources:
