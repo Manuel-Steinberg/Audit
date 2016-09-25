@@ -2,6 +2,7 @@
 
 - [ ] add an index for where clauses columns
 - [ ] use views
+- [ ] create Classes only when its required
 - [ ] Check configuration of ...
   - file uploads
   - `upload_max_filesize`
@@ -24,16 +25,21 @@
 - [ ] use memcache for the reducing database load and APC for opcode caching and intermediate code optimization
 - [ ] close database connections
 - [ ] reduce Number of hits to DB
-- [ ] put most frequently used switch/if-else cases on the top
+- [ ] don´t forget to disable debugging functions!
+- [ ] use native functions
+- [ ] put most frequently used switch/if-else case on the top
 - [ ] use JSON instead of XML
 - [ ] use `isset()` where ever possible instead of using `count()`, `strlen()`, `sizeof()`
+- [ ] use `''` (single quotes) instead of `""`(double quootes)
 - [ ] concat strings with points
+- [ ] make use of Call-By-Reference/Pointer
 - [ ] use `<svg>`-icons/graphics and so on
 - [ ] use the `<picture>`-HTML element (`<img>`as a fallback)
 - [ ] use lazy-load methods when possible
 - [ ] inline critical CSS
 - [ ] use `Keep-Alive` header (less TCP connections)
 - [ ] minimize or stop redirects
+- [ ] calculate only once
 
 
 ##External Resources:
