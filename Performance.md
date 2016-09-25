@@ -40,6 +40,7 @@
 - [ ] use `Keep-Alive` header (less TCP connections)
 - [ ] minimize or stop redirects
 - [ ] calculate only once
+- [ ] aggregate and reduce amount of XHR calls 
 
 
 ##External Resources:
