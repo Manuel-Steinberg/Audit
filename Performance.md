@@ -41,6 +41,7 @@
 - [ ] minimize or stop redirects
 - [ ] calculate only once
 - [ ] aggregate and reduce amount of XHR calls 
+- [ ] set `AllowOverride None` in _httpd.conf_ (Apache)
 
 
 ##External Resources:
