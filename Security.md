@@ -88,3 +88,4 @@ newWnd.opener = null;
 - https://detectify.com/
 - https://github.com/h5bp/server-configs
 - http://cto-security-checklist.sqreen.io/
+- https://www.crypteron.com/blog/the-real-problem-with-encryption/
