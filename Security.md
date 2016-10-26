@@ -87,3 +87,4 @@ newWnd.opener = null;
 - http://www.phpgangsta.de/2-faktor-authentifizierung-mit-dem-google-authenticator
 - https://detectify.com/
 - https://github.com/h5bp/server-configs
+- http://cto-security-checklist.sqreen.io/
