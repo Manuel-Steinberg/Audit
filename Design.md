@@ -11,6 +11,7 @@
 - [ ] let user customaize the page in a certain way, e.g. background-color
 - [ ] give your development domain a different favicon than production
 - [ ] use grid for layout and flexbox for content
+- [ ] use progressive JPEG
 
 ## External Resources:
 
