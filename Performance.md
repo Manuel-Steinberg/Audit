@@ -42,6 +42,7 @@
 - [ ] calculate only once
 - [ ] aggregate and reduce amount of XHR calls 
 - [ ] set `AllowOverride None` in _httpd.conf_ (Apache)
+- [ ] use `GOTO` for code isolating
 
 
 ##External Resources:
