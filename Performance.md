@@ -43,9 +43,11 @@
 - [ ] aggregate and reduce amount of XHR calls 
 - [ ] set `AllowOverride None` in _httpd.conf_ (Apache)
 - [ ] use `GOTO` for code isolating
+- [ ] prefer DEFER Over ASYNC
 
 
 ##External Resources:
 
 - https://github.com/h5bp/server-configs-apache
 - https://www.smashingmagazine.com/2015/08/understanding-critical-css/
+- http://calendar.perfplanet.com/2016/prefer-defer-over-async/
