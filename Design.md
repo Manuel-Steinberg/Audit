@@ -18,3 +18,4 @@
 - [Everything you wanted to know about CTA buttons](https://medium.com/email-industry-news/everything-you-wanted-to-know-about-email-cta-buttons-98807ab98806#.8sf0xg32l)
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.nctmmhrc6)
 - [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture)
+- [How to create effective push notifications](https://uxplanet.org/how-to-create-effective-push-notifications-c80f80420453#.t4f6rcyqd)
