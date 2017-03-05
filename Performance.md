@@ -44,6 +44,7 @@
 - [ ] set `AllowOverride None` in _httpd.conf_ (Apache)
 - [ ] use `GOTO` for code isolating
 - [ ] prefer DEFER Over ASYNC
+- [ ] use WebM instead of (animated) GIF
 
 
 ##External Resources:
