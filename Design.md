@@ -12,6 +12,8 @@
 - [ ] give your development domain a different favicon than production
 - [ ] use grid for layout and flexbox for content
 - [ ] use progressive JPEG
+- [ ] be unique
+- [ ] use occasion-related design, e.g. snow at winter times
 
 ## External Resources:
 
