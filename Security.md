@@ -53,6 +53,8 @@
 - [ ] force user to choose a strong password
 - [ ] use HSTS-Header when possible
 - [ ] set `rel="noopener noreferrer"` in `<a target="_blank" ... />` 
+- [ ] redirect http to https
+- [ ] check your sitemap urls
 
 
 ##### User Input
