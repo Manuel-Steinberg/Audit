@@ -55,6 +55,7 @@
 - [ ] set `rel="noopener noreferrer"` in `<a target="_blank" ... />` 
 - [ ] redirect http to https
 - [ ] check your sitemap urls
+- [ ] use as few as possible platforms, tools, engines etc.
 
 
 ##### User Input
