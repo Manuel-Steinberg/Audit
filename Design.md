@@ -14,6 +14,7 @@
 - [ ] use progressive JPEG
 - [ ] be unique
 - [ ] use occasion-related design, e.g. snow at winter times
+- [ ] use _object-fit/object-position_ CSS3 filter
 
 ## External Resources:
 
