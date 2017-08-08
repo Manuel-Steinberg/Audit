@@ -15,6 +15,14 @@
 - [ ] be unique
 - [ ] use occasion-related design, e.g. snow at winter times
 - [ ] use _object-fit/object-position_ CSS3 filter
+- [ ] Do not depend on color only
+- [ ] Do not block zoom
+- [ ] Rediscover the alt attribute
+- [ ] Add subtitles and captions to your videos
+- [ ] Semantics = accessibility
+- [ ] Use the right mark-up
+- [ ] Use roles when necessary
+- [ ] Follow web accessibility standards
 
 ## External Resources:
 
@@ -22,3 +30,4 @@
 - [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c#.nctmmhrc6)
 - [8 simple rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture)
 - [How to create effective push notifications](https://uxplanet.org/how-to-create-effective-push-notifications-c80f80420453#.t4f6rcyqd)
+- [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
