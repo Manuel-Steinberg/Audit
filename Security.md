@@ -56,7 +56,7 @@
 - [ ] redirect http to https
 - [ ] check your sitemap urls
 - [ ] use as few as possible platforms, tools, engines etc.
-- [ ] do not run multiple services like mail, webserver etc. on the same machine
+- [ ] do not run multiple services like mail, webserver etc. on the same machine/instance
 
 
 ##### User Input
