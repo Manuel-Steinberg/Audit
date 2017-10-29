@@ -45,6 +45,7 @@
 - [ ] use `GOTO` for code isolating
 - [ ] prefer DEFER Over ASYNC
 - [ ] use WebM instead of (animated) GIF
+- [ ] use Accelerated Mobile Pages (AMP) & Instant Articlss
 
 
 ##External Resources:
