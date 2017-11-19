@@ -15,14 +15,18 @@
 - [ ] be unique
 - [ ] use occasion-related design, e.g. snow at winter times
 - [ ] use _object-fit/object-position_ CSS3 filter
-- [ ] Do not depend on color only
-- [ ] Do not block zoom
-- [ ] Rediscover the alt attribute
-- [ ] Add subtitles and captions to your videos
-- [ ] Semantics = accessibility
-- [ ] Use the right mark-up
-- [ ] Use roles when necessary
-- [ ] Follow web accessibility standards
+- [ ] use storytelling forms
+- [ ] do not depend on color only
+- [ ] do not block zoom
+- [ ] rediscover the alt attribute
+- [ ] add subtitles and captions to your videos
+- [ ] semantics = accessibility
+- [ ] use the right mark-up
+- [ ] use roles when necessary
+- [ ] follow web accessibility standards
+- [ ] do not use Autoplay
+- [ ] use thumb navigation
+- [ ] do not use _:hover_ 
 
 ## External Resources:
 
