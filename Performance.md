@@ -46,6 +46,7 @@
 - [ ] prefer DEFER Over ASYNC
 - [ ] use WebM instead of (animated) GIF
 - [ ] use Accelerated Mobile Pages (AMP) & Instant Articlss
+- [ ] use CSS preload option
 
 
 ##External Resources:
