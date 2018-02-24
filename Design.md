@@ -36,3 +36,4 @@
 - [How to create effective push notifications](https://uxplanet.org/how-to-create-effective-push-notifications-c80f80420453#.t4f6rcyqd)
 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [Designing Efficient Web Forms](https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
