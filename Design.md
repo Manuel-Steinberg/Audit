@@ -27,6 +27,7 @@
 - [ ] do not use Autoplay
 - [ ] use thumb navigation
 - [ ] do not use _:hover_ 
+- [ ] do A/B-Testing
 
 ## External Resources:
 
