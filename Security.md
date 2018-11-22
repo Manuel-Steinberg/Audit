@@ -35,6 +35,7 @@
 - [ ] set `Content-Security-Policy: 'self'`
 - [ ] set `X-XSS-Protection: 1; mode=block`
 - [ ] set `Strict-Transport-Security: max-age=...`
+- [ ] set `Referrer-Policy: 'no-referrer-when-downgrade'`
 - [ ] set a DNS SPF entry
 - [ ] validate user input
 - [ ] block *.git*-folder access via URL
