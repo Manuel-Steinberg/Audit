@@ -59,6 +59,8 @@
 - [ ] use as few as possible platforms, tools, engines etc.
 - [ ] do not run multiple services like mail, webserver etc. on the same machine/instance
 - [ ] provide a security whitepaper
+- [ ] Scan Third-Party Libraries/Plugins (CMS)
+- [ ] Keep Third-Party Libraries/Plugins (CMS) up-to-date
 
 
 ##### User Input
