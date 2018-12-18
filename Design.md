@@ -39,4 +39,4 @@
 - [Designing Efficient Web Forms](https://www.smashingmagazine.com/2017/06/designing-efficient-web-forms/)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [Making Future Interfaces: Unusual Shapes](https://youtu.be/eCHt8zsbCT4)
-- [How to improve UX of web forms](maxsnitser.com/blog/how-to-improve-ux-of-web-forms)
+- [How to improve UX of web forms](http://maxsnitser.com/blog/how-to-improve-ux-of-web-forms)
