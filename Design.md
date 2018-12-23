@@ -41,3 +41,4 @@
 - [Making Future Interfaces: Unusual Shapes](https://youtu.be/eCHt8zsbCT4)
 - [How to improve UX of web forms](http://maxsnitser.com/blog/how-to-improve-ux-of-web-forms)
 - [A UX Guide For Designing Error Pages](https://blog.prototypr.io/a-ux-guide-for-designing-error-pages-fb9ced1f1c8a)
+- [Making the abbr element work for touchscreen, keyboard, and mouse](https://bitsofco.de/making-abbr-work-for-touchscreen-keyboard-mouse/)
