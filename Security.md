@@ -32,7 +32,7 @@
 - [ ] add a DMARC policy
 - [ ] set `X-Content-Type-Options: nosniff`
 - [ ] set `X-Frame-Options: DENY`
-- [ ] set `Content-Security-Policy: 'self'`
+- [ ] set `Content-Security-Policy: 'self'` (e.g. block JavaScript execution)
 - [ ] set `X-XSS-Protection: 1; mode=block`
 - [ ] set `Strict-Transport-Security: max-age=...`
 - [ ] set `Referrer-Policy: 'no-referrer-when-downgrade'`
