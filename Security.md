@@ -62,6 +62,7 @@
 - [ ] Scan Third-Party Libraries/Plugins (CMS)
 - [ ] Keep Third-Party Libraries/Plugins (CMS) up-to-date
 - [ ] Make use of HTML5 validation, e.g. required, min, pattern, type etc.
+- [ ] use speaking URLs (trustability)
 
 
 ##### User Input
