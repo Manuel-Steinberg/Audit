@@ -63,6 +63,7 @@
 - [ ] Keep Third-Party Libraries/Plugins (CMS) up-to-date
 - [ ] Make use of HTML5 validation, e.g. required, min, pattern, type etc.
 - [ ] use speaking URLs (trustability)
+- [ ] create SQL views with ` WITH CHECK OPTION`
 
 
 ##### User Input
