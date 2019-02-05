@@ -57,3 +57,4 @@
 - [Prefer DEFER Over ASYNC](http://calendar.perfplanet.com/2016/prefer-defer-over-async/)
 - [Making touch scrolling fast by default](https://developers.google.com/web/updates/2017/01/scrolling-intervention)
 - [WebPagetest](http://www.webpagetest.org)
+- [Customizing the Apache Configuration (Serverpilot)](https://serverpilot.io/docs/customize-apache-settings)
