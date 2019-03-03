@@ -46,7 +46,7 @@
 - [ ] prefer DEFER Over ASYNC
 - [ ] use WebM instead of (animated) GIF
 - [ ] use Accelerated Mobile Pages (AMP) & Instant Articlss
-- [ ] use CSS preload option
+- [ ] use CSS `rel="preload"` option
 - [ ] use httpd.conf instead of `.htaccess` (if possible)
 
 
