@@ -50,7 +50,7 @@
 - [ ] use httpd.conf instead of `.htaccess` (if possible)
 
 
-##External Resources:
+## External Resources:
 
 - [Apache HTTP server boilerplate configs](https://github.com/h5bp/server-configs-apache)
 - [Understanding critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
@@ -58,3 +58,4 @@
 - [Making touch scrolling fast by default](https://developers.google.com/web/updates/2017/01/scrolling-intervention)
 - [WebPagetest](http://www.webpagetest.org)
 - [Customizing the Apache Configuration (Serverpilot)](https://serverpilot.io/docs/customize-apache-settings)
+- [Create instant pages](https://instant.page/)
