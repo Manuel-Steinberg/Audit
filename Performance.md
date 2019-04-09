@@ -14,7 +14,7 @@
 - [ ] use nginx instead of Apache
 - [ ] minimize JS/CSS
 - [ ] concat JS/CSS (less HTTP requests)
-- [ ] Gzip necessary to all assets
+- [ ] Compress (Gzip) necessary to all assets
 - [ ] make use of CDN (be closer to the user)
 - [ ] keep `<meta charset="">` just below `<title>`
 - [ ] use Cache (`Expires` and `ETag` headers) at a certain Level
