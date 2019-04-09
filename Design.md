@@ -28,6 +28,7 @@
 - [ ] use thumb navigation
 - [ ] do not use _:hover_ 
 - [ ] do A/B-Testing
+- [ ] use labels for every input field
 
 ## External Resources:
 
