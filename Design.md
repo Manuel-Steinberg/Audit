@@ -43,4 +43,5 @@
 - [How to improve UX of web forms](http://maxsnitser.com/blog/how-to-improve-ux-of-web-forms)
 - [A UX Guide For Designing Error Pages](https://blog.prototypr.io/a-ux-guide-for-designing-error-pages-fb9ced1f1c8a)
 - [Making the abbr element work for touchscreen, keyboard, and mouse](https://bitsofco.de/making-abbr-work-for-touchscreen-keyboard-mouse/)
- [HTML5 input inputmodes](https://developer.mozilla.org/de/docs/Web/HTML/Element/Input#attr-inputmode)
+- [HTML5 input inputmodes](https://developer.mozilla.org/de/docs/Web/HTML/Element/Input#attr-inputmode)
+- [Support tables for HTML5, CSS3, etc](https://caniuse.com/)
