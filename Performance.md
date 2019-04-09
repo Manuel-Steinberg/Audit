@@ -35,7 +35,7 @@
 - [ ] make use of Call-By-Reference/Pointer
 - [ ] use `<svg>`-icons/graphics and so on
 - [ ] use the `<picture>`-HTML element (`<img>`as a fallback)
-- [ ] use lazy-load methods when possible
+- [ ] use prefetvh methods like lazy-load when possible
 - [ ] inline critical CSS
 - [ ] use `Keep-Alive` header (less TCP connections)
 - [ ] minimize or stop redirects
