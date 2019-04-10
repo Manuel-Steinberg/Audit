@@ -45,3 +45,4 @@
 - [Making the abbr element work for touchscreen, keyboard, and mouse](https://bitsofco.de/making-abbr-work-for-touchscreen-keyboard-mouse/)
 - [HTML5 input inputmodes](https://developer.mozilla.org/de/docs/Web/HTML/Element/Input#attr-inputmode)
 - [Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+- [A collection of the best UX and UI practices.](https://www.checklist.design/)
