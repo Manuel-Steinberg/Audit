@@ -47,3 +47,4 @@
 - [HTML5 input inputmodes](https://developer.mozilla.org/de/docs/Web/HTML/Element/Input#attr-inputmode)
 - [Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 - [A collection of the best UX and UI practices.](https://www.checklist.design/)
+- [Graphs — a bumpy design ride](https://medium.com/@william.bengtsson/learnings-from-designing-graphs-9033e9034ca0)
