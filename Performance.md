@@ -59,3 +59,4 @@
 - [WebPagetest](http://www.webpagetest.org)
 - [Customizing the Apache Configuration (Serverpilot)](https://serverpilot.io/docs/customize-apache-settings)
 - [Create instant pages](https://instant.page/)
+- [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
