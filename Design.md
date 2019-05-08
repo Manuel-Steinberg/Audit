@@ -4,6 +4,7 @@
 - [ ] place opposite elements ("Delete" / "Add") far away from each other
 - [ ] use space between related buttons/button-groups
 - [ ] put related things together
+- [ ] do not hide mandatory input fields
 - [ ] right click popups safe traveling distance with the mouse
 - [ ] popup elements should be ordered by plausability of clicking
 - [ ] use microinteractions wisely
@@ -22,10 +23,12 @@
 - [ ] add subtitles and captions to your videos
 - [ ] semantics = accessibility
 - [ ] use the right mark-up
+- [ ] do not split login process
 - [ ] use roles when necessary
 - [ ] follow web accessibility standards
 - [ ] do not use Autoplay
 - [ ] use thumb navigation
+- [ ] do not put logins in modals
 - [ ] do not use _:hover_ 
 - [ ] do A/B-Testing
 - [ ] use labels for every input field
