@@ -102,3 +102,4 @@ newWnd.opener = null;
 - https://www.crypteron.com/blog/the-real-problem-with-encryption/
 - https://blog.appcanary.com/2017/http-security-headers.html
 - https://observatory.mozilla.org/
+- https://www.sqreen.com/checklists
