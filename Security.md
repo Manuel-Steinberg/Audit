@@ -64,6 +64,7 @@
 - [ ] Make use of HTML5 validation, e.g. required, min, pattern, type etc.
 - [ ] use speaking URLs (trustability)
 - [ ] create SQL views with ` WITH CHECK OPTION`
+- [ ] use Subresource Integrity (SRI)
 
 
 ##### User Input
@@ -102,3 +103,4 @@ newWnd.opener = null;
 - https://www.crypteron.com/blog/the-real-problem-with-encryption/
 - https://blog.appcanary.com/2017/http-security-headers.html
 - https://observatory.mozilla.org/
+- https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
