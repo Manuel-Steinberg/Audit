@@ -33,6 +33,7 @@
 - [ ] do A/B-Testing
 - [ ] use labels for every input field
 - [ ] use neutral color for neutral actions, e.g. Cancel button
+- [ ] use tranparency instead of greyout disabled buttons
 
 ## External Resources:
 
