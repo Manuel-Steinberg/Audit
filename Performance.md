@@ -48,6 +48,7 @@
 - [ ] use Accelerated Mobile Pages (AMP) & Instant Articlss
 - [ ] use CSS `rel="preload"` option
 - [ ] use httpd.conf instead of `.htaccess` (if possible)
+- [ ] use unary plus (+) to convert string to number (applicable for JS) 
 
 
 ## External Resources:
