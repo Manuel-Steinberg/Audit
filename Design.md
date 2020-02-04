@@ -54,3 +54,4 @@
 - [Graphs — a bumpy design ride](https://medium.com/@william.bengtsson/learnings-from-designing-graphs-9033e9034ca0)
 - [84 cognitive biases you should exploit to design better products](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
 - [Some Imaginary CSS](https://cloudfour.com/thinks/some-imaginary-css/)
+- [7 Principles of Icon Design](https://medium.com/@minoraxis/7-principles-of-icon-design-e7187539e4a2)
