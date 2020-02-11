@@ -104,3 +104,4 @@ newWnd.opener = null;
 - https://blog.appcanary.com/2017/http-security-headers.html
 - https://observatory.mozilla.org/
 - https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
+- https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/
