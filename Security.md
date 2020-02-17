@@ -65,6 +65,7 @@
 - [ ] use speaking URLs (trustability)
 - [ ] create SQL views with ` WITH CHECK OPTION`
 - [ ] use Subresource Integrity (SRI)
+- [ ] use Privacy/Security checks for your Accounts ([Google's Secuirty Check](https://myaccount.google.com/intro/security-checkup))
 
 
 ##### User Input
