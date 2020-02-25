@@ -106,3 +106,4 @@ newWnd.opener = null;
 - https://observatory.mozilla.org/
 - https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
 - https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/
+- https://enterprise.verizon.com/resources/reports/dbir/2019/summary-of-findings/
