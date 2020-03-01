@@ -1,5 +1,6 @@
 # Security:
 
+- [ ] use SSL certificates
 - [ ] use `htmlentities()`
 - [ ] set `display_errors = 0`
 - [ ] check `$_SERVER['HTTP_REFERER']` for XSS-test
@@ -20,6 +21,7 @@
 - [ ] the MySQL data directory should be only accessible from the server account.
 - [ ] use `mysql_real_escape_string()`
 - [ ] protect PHP option files
+- [ ] capture errors
 - [ ] periodically check the MySQL accounts
 - [ ] use Two-Factor-Authentification
 - [ ] santisize any values being passed to your system
@@ -66,6 +68,7 @@
 - [ ] create SQL views with ` WITH CHECK OPTION`
 - [ ] use Subresource Integrity (SRI)
 - [ ] use Privacy/Security checks for your Accounts ([Google's Secuirty Check](https://myaccount.google.com/intro/security-checkup))
+- [ ] trust no-one!
 
 
 ##### User Input
