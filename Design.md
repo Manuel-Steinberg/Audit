@@ -55,3 +55,4 @@
 - [84 cognitive biases you should exploit to design better products](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
 - [Some Imaginary CSS](https://cloudfour.com/thinks/some-imaginary-css/)
 - [7 Principles of Icon Design](https://medium.com/@minoraxis/7-principles-of-icon-design-e7187539e4a2)
+- [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
