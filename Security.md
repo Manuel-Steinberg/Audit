@@ -70,6 +70,7 @@
 - [ ] use Subresource Integrity (SRI)
 - [ ] use Privacy/Security checks for your Accounts ([Google's Secuirty Check](https://myaccount.google.com/intro/security-checkup))
 - [ ] trust no-one!
+- [ ] read Books about [Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/)
 
 
 ##### User Input
