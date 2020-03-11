@@ -21,6 +21,7 @@
 - [ ] the MySQL data directory should be only accessible from the server account.
 - [ ] use `mysql_real_escape_string()`
 - [ ] protect PHP option files
+- [ ] never expose IDs from a DB to front-end
 - [ ] capture errors
 - [ ] periodically check the MySQL accounts
 - [ ] use Two-Factor-Authentification
