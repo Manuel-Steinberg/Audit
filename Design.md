@@ -14,6 +14,7 @@
 - [ ] use grid for layout and flexbox for content
 - [ ] use progressive JPEG
 - [ ] be unique
+- [ ] ise consistent icon-set
 - [ ] use occasion-related design, e.g. snow at winter times
 - [ ] use _object-fit/object-position_ CSS3 filter
 - [ ] use storytelling forms
@@ -29,11 +30,16 @@
 - [ ] do not use Autoplay
 - [ ] use thumb navigation
 - [ ] do not put logins in modals
+- [ ] do not forget _letter-spacing_
 - [ ] do not use _:hover_ 
 - [ ] do A/B-Testing
 - [ ] use labels for every input field
 - [ ] use neutral color for neutral actions, e.g. Cancel button
 - [ ] use tranparency instead of greyout disabled buttons
+- [ ] use color-palettes (max. 5)
+- [ ] use font-palettes (max. 2)
+- [ ] use less _border_
+
 
 ## External Resources:
 
