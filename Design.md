@@ -6,6 +6,7 @@
 - [ ] put related things together
 - [ ] do not hide mandatory input fields
 - [ ] right click popups safe traveling distance with the mouse
+- [ ] avoid reCaptcha
 - [ ] popup elements should be ordered by plausability of clicking
 - [ ] use microinteractions wisely
 - [ ] good CSS doesn´t need _!important_ declaration
@@ -32,6 +33,7 @@
 - [ ] do not put logins in modals
 - [ ] do not forget _letter-spacing_
 - [ ] do not use _:hover_ 
+- [ ] provide screen reader meta data (ARIA)
 - [ ] do A/B-Testing
 - [ ] use labels for every input field
 - [ ] use neutral color for neutral actions, e.g. Cancel button
@@ -39,6 +41,7 @@
 - [ ] use color-palettes (max. 5)
 - [ ] use font-palettes (max. 2)
 - [ ] use less _border_
+- [ ] Less animations / moving objects
 
 
 ## External Resources:
