@@ -49,6 +49,7 @@
 - [ ] use CSS `rel="preload"` option
 - [ ] use httpd.conf instead of `.htaccess` (if possible)
 - [ ] use unary plus (+) to convert string to number (applicable for JS) 
+- [ ] use one Framework maximum
 
 
 ## External Resources:
@@ -61,3 +62,4 @@
 - [Customizing the Apache Configuration (Serverpilot)](https://serverpilot.io/docs/customize-apache-settings)
 - [Create instant pages](https://instant.page/)
 - [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
+- [ ]()
