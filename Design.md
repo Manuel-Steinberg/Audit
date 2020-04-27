@@ -26,6 +26,7 @@
 - [ ] semantics = accessibility
 - [ ] use the right mark-up
 - [ ] do not split login process
+- [ ] use input types
 - [ ] use roles when necessary
 - [ ] follow web accessibility standards
 - [ ] do not use Autoplay
