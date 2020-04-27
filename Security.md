@@ -109,6 +109,7 @@ newWnd.opener = null;
 - https://www.crypteron.com/blog/the-real-problem-with-encryption/
 - https://blog.appcanary.com/2017/http-security-headers.html
 - https://observatory.mozilla.org/
+- https://securityheaders.com
 - https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
 - https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/
 - https://enterprise.verizon.com/resources/reports/dbir/2019/summary-of-findings/
