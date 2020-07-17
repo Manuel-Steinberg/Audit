@@ -32,6 +32,7 @@
 - [ ] do not use Autoplay
 - [ ] use thumb navigation
 - [ ] do not put logins in modals
+- [ ] create tappable areas for mobile view
 - [ ] do not forget _letter-spacing_
 - [ ] do not use _:hover_ 
 - [ ] provide screen reader meta data (ARIA)
@@ -39,10 +40,12 @@
 - [ ] use labels for every input field
 - [ ] use neutral color for neutral actions, e.g. Cancel button
 - [ ] use tranparency instead of greyout disabled buttons
+- [ ] keep a good contrast always
 - [ ] use color-palettes (max. 5)
 - [ ] use font-palettes (max. 2)
 - [ ] use less _border_
 - [ ] Less animations / moving objects
+- [ ] use color variants of your product as background
 
 
 ## External Resources:
