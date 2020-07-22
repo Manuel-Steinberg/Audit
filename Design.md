@@ -46,6 +46,7 @@
 - [ ] use less _border_
 - [ ] Less animations / moving objects
 - [ ] use color variants of your product as background
+- [ ] provide detailed status of activites
 
 
 ## External Resources:
