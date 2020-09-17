@@ -50,6 +50,7 @@
 - [ ] use httpd.conf instead of `.htaccess` (if possible)
 - [ ] use unary plus (+) to convert string to number (applicable for JS) 
 - [ ] use one Framework maximum
+- [ ] use `content-visibility: auto` in your CSS for text-containers.
 
 
 ## External Resources:
@@ -63,3 +64,4 @@
 - [Create instant pages](https://instant.page/)
 - [Preload, prefetch and other <link> tags](https://3perf.com/blog/link-rels/)
 - [The cost of JS framworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
+- [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
