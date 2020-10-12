@@ -51,6 +51,7 @@
 - [ ] use unary plus (+) to convert string to number (applicable for JS) 
 - [ ] use one Framework maximum
 - [ ] use `content-visibility: auto` in your CSS for text-containers.
+- [ ] reduce number of images
 
 
 ## External Resources:
