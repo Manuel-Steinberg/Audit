@@ -47,6 +47,8 @@
 - [ ] Less animations / moving objects
 - [ ] use color variants of your product as background
 - [ ] provide detailed status of activites
+- [ ] remove stock photos (use authentic photos of real people and products)
+
 
 
 ## External Resources:
