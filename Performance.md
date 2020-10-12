@@ -54,6 +54,7 @@
 - [ ] reduce number of images
 - [ ] optimize images/videos
 - [ ] minimize Code
+- [ ] avoid CSS frameworks
 
 
 ## External Resources:
