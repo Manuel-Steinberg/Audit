@@ -55,6 +55,10 @@
 - [ ] optimize images/videos
 - [ ] minimize Code
 - [ ] avoid CSS frameworks
+- [ ] use static pages if possible
+- [ ] do not use analytics
+- [ ] avoid ads
+
 
 
 ## External Resources:
