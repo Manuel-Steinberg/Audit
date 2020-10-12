@@ -50,6 +50,8 @@
 - [ ] remove stock photos (use authentic photos of real people and products)
 - [ ] use videos only if it makes a difference
 - [ ] never autoplay media
+- [ ] limit external fonts to two
+- [ ] get rid of progress bars
 
 
 
