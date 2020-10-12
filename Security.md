@@ -72,6 +72,9 @@
 - [ ] trust no-one!
 - [ ] read Books about [Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/)
 - [ ] remove unneccessary code
+- [ ] delete 0 traffic pages
+- [ ] update outdated code
+
 
 
 
