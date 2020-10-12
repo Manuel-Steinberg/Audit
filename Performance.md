@@ -53,6 +53,7 @@
 - [ ] use `content-visibility: auto` in your CSS for text-containers.
 - [ ] reduce number of images
 - [ ] optimize images/videos
+- [ ] minimize Code
 
 
 ## External Resources:
