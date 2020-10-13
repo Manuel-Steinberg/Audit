@@ -118,3 +118,4 @@ newWnd.opener = null;
 - https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
 - https://blog.cloudflare.com/javascript-libraries-are-almost-never-updated/
 - https://enterprise.verizon.com/resources/reports/dbir/2019/summary-of-findings/
+- https://www.bram.us/2018/02/21/css-keylogger-and-why-you-shouldnt-worry-about-it/
