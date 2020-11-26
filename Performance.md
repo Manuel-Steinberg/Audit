@@ -74,3 +74,4 @@
 - [The cost of JS framworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 - [Optimizing CSS for faster page loads](https://pustelto.com/blog/optimizing-css-for-faster-page-loads/)
+- [How to Load Fonts in a Way That Fights FOUT and Makes Lighthouse Happy](https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/)
