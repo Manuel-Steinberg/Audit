@@ -16,6 +16,7 @@
 - [ ] use progressive JPEG
 - [ ] be unique
 - [ ] ise consistent icon-set
+- [ ] add enough space between contrary action buttons, e.g. Cancel/Submit (best opposite side)
 - [ ] use occasion-related design, e.g. snow at winter times
 - [ ] use _object-fit/object-position_ CSS3 filter
 - [ ] use storytelling forms
