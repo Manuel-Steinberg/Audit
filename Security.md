@@ -104,6 +104,11 @@ var newWnd = window.open();
 // reset the "opener" property
 newWnd.opener = null;
 ```
+```js
+document.querySelectorAll('a[href^="http"]:not([href*="//YOURDOMAIN.TLD"])')
+  .forEach(
+    anchor => anchor.setAttribute('rel', 'noopener noreferrer'));
+```
 
 #### External resources:
 - http://chxo.com/scripts/safe_html/index.html
