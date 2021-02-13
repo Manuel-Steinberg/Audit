@@ -53,6 +53,7 @@
 - [ ] never autoplay media
 - [ ] limit external fonts to two
 - [ ] get rid of progress bars
+- [ ] do not use _pointer-events:none_ for labels within CSS
 
 
 
