@@ -80,3 +80,4 @@
 - [Everything You Ever Wanted to Know About inputmode](https://css-tricks.com/everything-you-ever-wanted-to-know-about-inputmode/)
 - [Retargeting im E-Commerce: 5 häufige Fehler und wie du sie vermeidest](https://t3n.de/news/retargeting-e-commerce-5-fehler-1257793/)
 - [Sign-in form best practices](https://web.dev/sign-in-form-best-practices)
+- [Die Grundprinzipien von Website-Usability](https://99designs.de/blog/web-digitales-design/website-usability/)
