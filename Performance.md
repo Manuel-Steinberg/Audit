@@ -75,3 +75,4 @@
 - [content-visibility: the new CSS property that boosts your rendering performance](https://web.dev/content-visibility/)
 - [Optimizing CSS for faster page loads](https://pustelto.com/blog/optimizing-css-for-faster-page-loads/)
 - [How to Load Fonts in a Way That Fights FOUT and Makes Lighthouse Happy](https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/)
+- [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
