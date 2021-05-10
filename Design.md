@@ -81,4 +81,5 @@
 - [Retargeting im E-Commerce: 5 häufige Fehler und wie du sie vermeidest](https://t3n.de/news/retargeting-e-commerce-5-fehler-1257793/)
 - [Sign-in form best practices](https://web.dev/sign-in-form-best-practices)
 - [Die Grundprinzipien von Website-Usability](https://99designs.de/blog/web-digitales-design/website-usability/)
-- [https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40](100 underline/overlay animations | The ultimate CSS collection)
+- [100 underline/overlay animations | The ultimate CSS collection](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
+- [12 Conversion-Tipps von Top-Profis](https://t3n.de/news/12-conversion-tipps-top-profis-1377113/)
