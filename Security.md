@@ -74,6 +74,7 @@
 - [ ] remove unneccessary code
 - [ ] delete 0 traffic pages
 - [ ] update outdated code
+- [ ] use `download` attribute with caution, e.g., `<a href='/file.exe' download>`
 
 
 
