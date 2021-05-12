@@ -28,6 +28,7 @@
 - [ ] use the right mark-up
 - [ ] do not split login process
 - [ ] use input types
+- [ ] use `spellcheck="true"` for certain inputs
 - [ ] use roles when necessary
 - [ ] follow web accessibility standards
 - [ ] do not use Autoplay
