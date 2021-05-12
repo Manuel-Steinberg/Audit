@@ -52,6 +52,7 @@
 - [ ] provide detailed status of activites
 - [ ] remove stock photos (use authentic photos of real people and products)
 - [ ] use videos only if it makes a difference
+- [ ] use `poster` attribute for videos
 - [ ] never autoplay media
 - [ ] limit external fonts to two
 - [ ] get rid of progress bars
