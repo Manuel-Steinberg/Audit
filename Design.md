@@ -38,6 +38,7 @@
 - [ ] do not use _:hover_ 
 - [ ] provide screen reader meta data (ARIA)
 - [ ] do A/B-Testing
+- [ ] use `fieldset`to group controls
 - [ ] use labels for every input field
 - [ ] use neutral color for neutral actions, e.g. Cancel button
 - [ ] use tranparency instead of greyout disabled buttons
@@ -54,6 +55,7 @@
 - [ ] limit external fonts to two
 - [ ] get rid of progress bars
 - [ ] do not use _pointer-events:none_ for labels within CSS
+- [ ] use `meter`tag for quantities
 
 
 
