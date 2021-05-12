@@ -27,8 +27,9 @@
 - [ ] semantics = accessibility
 - [ ] use the right mark-up
 - [ ] do not split login process
-- [ ] use input types
+- [ ] use input types!
 - [ ] use `spellcheck="true"` for certain inputs
+- [ ] use `search` as input type for search to get the “clear” button
 - [ ] use roles when necessary
 - [ ] follow web accessibility standards
 - [ ] do not use Autoplay
