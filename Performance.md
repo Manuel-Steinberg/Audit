@@ -18,6 +18,7 @@
 - [ ] make use of CDN (be closer to the user)
 - [ ] keep `<meta charset="">` just below `<title>`
 - [ ] use Cache (`Expires` and `ETag` headers) at a certain Level
+- [ ] use cache busting techniques (`?v=...`) wisely, e.g., `<link rel="icon" href="/favicon.ico?v=2" />`
 - [ ] use "===" instead of "=="
 - [ ] str_replace is faster than preg_replace, but strtr is faster than str_replace by a factor of 4
 - [ ] Pass reference to the function if it does not affect your logic
