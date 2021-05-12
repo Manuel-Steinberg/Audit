@@ -46,6 +46,7 @@
 - [ ] use `GOTO` for code isolating
 - [ ] prefer DEFER Over ASYNC
 - [ ] use WebM instead of (animated) GIF
+- [ ] use WebP image format
 - [ ] use Accelerated Mobile Pages (AMP) & Instant Articlss
 - [ ] use CSS `rel="preload"` option
 - [ ] use httpd.conf instead of `.htaccess` (if possible)
