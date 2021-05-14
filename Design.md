@@ -39,6 +39,7 @@
 - [ ] do not forget _letter-spacing_
 - [ ] do not use _:hover_ 
 - [ ] provide screen reader meta data (ARIA)
+- [ ] move groups closer to each other, e.g., headlines and content
 - [ ] do A/B-Testing
 - [ ] use `fieldset`to group controls
 - [ ] use labels for every input field
