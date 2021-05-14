@@ -20,6 +20,7 @@
 - [ ] use occasion-related design, e.g. snow at winter times
 - [ ] use _object-fit/object-position_ CSS3 filter
 - [ ] use storytelling forms
+- [ ] show form tips
 - [ ] do not depend on color only
 - [ ] do not block zoom
 - [ ] rediscover the alt attribute
@@ -28,6 +29,7 @@
 - [ ] use the right mark-up
 - [ ] do not split login process
 - [ ] use input types!
+- [ ] use autofocus wisely, e.g., above the fold only 
 - [ ] use `spellcheck="true"` for certain inputs
 - [ ] use `search` as input type for search to get the “clear” button
 - [ ] use roles when necessary
@@ -43,6 +45,7 @@
 - [ ] do A/B-Testing
 - [ ] use `fieldset`to group controls
 - [ ] use labels for every input field
+- [ ] reduce number of required fields
 - [ ] use neutral color for neutral actions, e.g. Cancel button
 - [ ] use tranparency instead of greyout disabled buttons
 - [ ] keep a good contrast always
@@ -56,6 +59,8 @@
 - [ ] use videos only if it makes a difference
 - [ ] use `poster` attribute for videos
 - [ ] never autoplay media
+- [ ] label icons
+- [ ] use consistent icons
 - [ ] limit external fonts to two
 - [ ] get rid of progress bars
 - [ ] do not use _pointer-events:none_ for labels within CSS
