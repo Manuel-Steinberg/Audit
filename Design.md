@@ -61,6 +61,7 @@
 - [ ] do not use _pointer-events:none_ for labels within CSS
 - [ ] use `<meter>` for quantities
 - [ ] use `<mark>` element rather `<span>` for highlighting
+- [ ] make links obvious
 
 
 
