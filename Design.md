@@ -96,3 +96,4 @@
 - [Die Grundprinzipien von Website-Usability](https://99designs.de/blog/web-digitales-design/website-usability/)
 - [100 underline/overlay animations | The ultimate CSS collection](https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40)
 - [12 Conversion-Tipps von Top-Profis](https://t3n.de/news/12-conversion-tipps-top-profis-1377113/)
+- [How to build better digital experiences with UX writing principles](https://medium.com/sainsburys-digital-experience/how-to-build-better-digital-experiences-with-ux-writing-principles-3c65fcdbcef8)
