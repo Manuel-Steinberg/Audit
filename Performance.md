@@ -66,6 +66,7 @@
 ## External Resources:
 
 - [Apache HTTP server boilerplate configs](https://github.com/h5bp/server-configs-apache)
+- [PHP Benchmarks](https://phpbench.com/)
 - [Understanding critical CSS](https://www.smashingmagazine.com/2015/08/understanding-critical-css/)
 - [Prefer DEFER Over ASYNC](http://calendar.perfplanet.com/2016/prefer-defer-over-async/)
 - [Making touch scrolling fast by default](https://developers.google.com/web/updates/2017/01/scrolling-intervention)
