@@ -48,6 +48,7 @@
 - [ ] reduce number of required fields
 - [ ] use neutral color for neutral actions, e.g. Cancel button
 - [ ] use tranparency instead of greyout disabled buttons
+- [ ] avoid disabled buttons, only show active buttons
 - [ ] keep a good contrast always
 - [ ] use color-palettes (max. 5)
 - [ ] use font-palettes (max. 2)
