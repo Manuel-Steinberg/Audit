@@ -15,7 +15,7 @@
 - [ ] use grid for layout and flexbox for content
 - [ ] use progressive JPEG
 - [ ] be unique
-- [ ] ise consistent icon-set
+- [ ] use consistent icon-set
 - [ ] add enough space between contrary action buttons, e.g. Cancel/Submit (best opposite side)
 - [ ] use occasion-related design, e.g. snow at winter times
 - [ ] use _object-fit/object-position_ CSS3 filter
@@ -61,13 +61,16 @@
 - [ ] use `poster` attribute for videos
 - [ ] never autoplay media
 - [ ] label icons
-- [ ] use consistent icons
+- [ ] use icons with selling point character
 - [ ] limit external fonts to two
 - [ ] get rid of progress bars
 - [ ] do not use _pointer-events:none_ for labels within CSS
 - [ ] use `<meter>` for quantities
 - [ ] use `<mark>` element rather `<span>` for highlighting
 - [ ] make links obvious
+- [ ] make like-section personal, e.g. famous person bought this as well
+- [ ] add key feature to product title, e.g. shorts made with bio-wool
+- [ ] add pain point as subtitle, e.g. not noticeable when you wear it
 
 
 
