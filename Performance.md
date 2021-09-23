@@ -58,9 +58,11 @@
 - [ ] optimize images/videos
 - [ ] minimize Code
 - [ ] avoid CSS frameworks
+- [ ] use PurgeCSS
 - [ ] use static pages if possible
 - [ ] do not use analytics
 - [ ] avoid ads
+- [ ] avoid nesting elements in CSS
 
 
 
