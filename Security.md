@@ -54,7 +54,7 @@
 - [ ] keep everything up-to-date
 - [ ] hack yourself before someone else will
 - [ ] use only reliable PSPs
-- [ ] force user to choose a strong password
+- [ ] force user to choose a strong password (passsentence)
 - [ ] use HSTS-Header when possible
 - [ ] set `rel="noopener noreferrer"` in `<a target="_blank" ... />` 
 - [ ] redirect http to https
