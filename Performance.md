@@ -63,6 +63,7 @@
 - [ ] do not use analytics
 - [ ] avoid ads
 - [ ] avoid nesting elements in CSS
+- [ ] send emails in text rather `html` format
 
 
 
