@@ -72,6 +72,15 @@
 - [ ] add key feature to product title, e.g. shorts made with bio-wool
 - [ ] add pain point as subtitle, e.g. not noticeable when you wear it
 
+## Snippets
+
+```CSS
+/* Spot layout quirks eaisly*/
+
+* {
+  outline: 1px solid red; 
+}
+```
 
 
 ## External Resources:
