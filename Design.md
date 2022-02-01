@@ -112,3 +112,4 @@
 - [How to build better digital experiences with UX writing principles](https://medium.com/sainsburys-digital-experience/how-to-build-better-digital-experiences-with-ux-writing-principles-3c65fcdbcef8)
 - [HTML HELL](https://www.htmhell.dev/tips/the-current-page)
 - [Access Guide](https://accessguide.io/)
+- [A11y Checklist](https://www.a11yproject.com/checklist)
