@@ -71,6 +71,7 @@
 - [ ] make like-section personal, e.g. famous person bought this as well
 - [ ] add key feature to product title, e.g. shorts made with bio-wool
 - [ ] add pain point as subtitle, e.g. not noticeable when you wear it
+- [ ] use SVG for icons, not icon fonts
 
 ## Snippets
 
