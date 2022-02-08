@@ -72,7 +72,7 @@
 - [ ] add key feature to product title, e.g. shorts made with bio-wool
 - [ ] add pain point as subtitle, e.g. not noticeable when you wear it
 - [ ] use SVG for icons, not icon fonts
-- [ ] optimize `@media(print)`(people print websites!)
+- [ ] optimize `@media print` (do not ignore it - people print pages)
 
 ## Snippets
 
