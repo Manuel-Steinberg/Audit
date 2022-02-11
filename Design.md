@@ -116,3 +116,4 @@
 - [Access Guide](https://accessguide.io/)
 - [A11y Checklist](https://www.a11yproject.com/checklist)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+- [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon)
