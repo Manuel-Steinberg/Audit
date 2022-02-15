@@ -73,6 +73,7 @@
 - [ ] add pain point as subtitle, e.g. not noticeable when you wear it
 - [ ] use SVG for icons, not icon fonts
 - [ ] optimize `@media print` (do not ignore it - people print pages)
+- [ ] use `.preventDefault()` for JS event listeners.
 - [ ] avoid `target="_blank" in anchors
 
 ## Snippets
@@ -83,6 +84,14 @@
 * {
   outline: 1px solid red; 
 }
+```
+
+```JS
+/* Event Handler != Event Listener */
+
+document.getElementById("myButton").addEventListener("click", function(event){
+  event.preventDefault()
+});
 ```
 
 
