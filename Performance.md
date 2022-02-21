@@ -64,6 +64,7 @@
 - [ ] avoid ads
 - [ ] avoid nesting elements in CSS
 - [ ] send emails in text rather `html` format
+- [ ] use guard clauses to exit early
 
 
 
