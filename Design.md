@@ -75,6 +75,7 @@
 - [ ] optimize `@media print` (do not ignore it - people print pages)
 - [ ] use `.preventDefault()` for JS event listeners.
 - [ ] avoid `target="_blank" in anchors
+- [ ] use numeric seperators for large numbers (1_000_000) for readibility
 
 ## Snippets
 
