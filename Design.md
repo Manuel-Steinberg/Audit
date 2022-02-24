@@ -1,5 +1,6 @@
 # UI & UX:
 
+- [ ] provide the language meta attribute (`lang="de_DE"` and `hreflang`)
 - [ ] use CSS cursor property
 - [ ] place opposite elements ("Delete" / "Add") far away from each other
 - [ ] use space between related buttons/button-groups
@@ -40,7 +41,7 @@
 - [ ] create tappable areas for mobile view
 - [ ] do not forget _letter-spacing_
 - [ ] do not use _:hover_ 
-- [ ] provide screen reader meta data (ARIA)
+- [ ] provide screen reader meta data (e.g., `aria-current="page"` or `aria-sort="ascending"`)
 - [ ] move groups closer to each other, e.g., headlines and content
 - [ ] do A/B-Testing
 - [ ] use `fieldset`to group controls
