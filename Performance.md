@@ -65,6 +65,7 @@
 - [ ] avoid nesting elements in CSS
 - [ ] send emails in text rather `html` format
 - [ ] use guard clauses to exit early
+- [ ] use dedicated performance benchmark methods, e.g. `performance.now()` in JS
 
 
 
