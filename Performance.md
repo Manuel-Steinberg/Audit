@@ -67,6 +67,7 @@
 - [ ] use guard clauses to exit early
 - [ ] use dedicated performance benchmark methods, e.g. `performance.now()` in JS
 - [ ] use `.map()` method for array manipulations
+- [ ] use `console.table()` in JS to print debug information
 
 
 
