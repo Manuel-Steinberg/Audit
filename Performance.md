@@ -12,7 +12,7 @@
   - `max_input_time`
   - `memory_limit`
 - [ ] use nginx instead of Apache
-- [ ] minimize JS/CSS
+- [ ] minimize JS/CSS/SVG/JPEG/PNG/AVIF/WEBP/GIF etc.
 - [ ] concat JS/CSS (less HTTP requests)
 - [ ] Compress (Gzip) necessary to all assets
 - [ ] make use of CDN (be closer to the user)
