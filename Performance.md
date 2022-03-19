@@ -68,6 +68,7 @@
 - [ ] use dedicated performance benchmark methods, e.g. `performance.now()` in JS
 - [ ] use `.map()` method for array manipulations
 - [ ] use `console.table()` in JS to print debug information
+- [ ] use `<use>` to eliminate duplicates within svg
 
 
 
