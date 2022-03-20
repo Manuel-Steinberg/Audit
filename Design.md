@@ -80,8 +80,32 @@
 
 ## Snippets
 
+```HTML
+<form action="#" method="post">
+    <fieldset>
+      <legend>Register</legend>
+      <section>
+        <label for="username">Username</label>
+        <input id="username" type="text" name="username" placeholder="Username" autocomplete="username" required>
+      </section>
+      <section>
+        <label for="email">Email</label>
+        <input id="email" type="email" name="email" placeholder="Email" autocomplete="email" required>
+      </section>
+      <section>
+        <label for="password">Password</label>
+        <input id="password" type="password" name="password" placeholder="Password" required>
+      </section>
+      <section>
+        <input type="hidden" name="csrf">
+        <button type="submit">Register</button>
+      </section>
+    </fieldset>
+  </form>
+```
+
 ```CSS
-/* Spot layout quirks eaisly*/
+/* Spot layout quirks easily*/
 
 * {
   outline: 1px solid red; 
