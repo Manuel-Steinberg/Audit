@@ -77,7 +77,6 @@
 - [ ] use `.preventDefault()` for JS event listeners.
 - [ ] avoid `target="_blank" in anchors
 - [ ] use numeric seperators for large numbers (1_000_000) for readibility
-- [ ] create  `javascript: document.designMode="on";void 0;` bookmarklet (to activate design mode)
 
 ## Snippets
 
@@ -154,3 +153,4 @@ document.getElementById("myButton").addEventListener("click", function(event){
 - [A11y Checklist](https://www.a11yproject.com/checklist)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 - [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon)
+- [Useful Bookmarklets to Boost Web Development](https://css-tricks.com/web-development-bookmarklets/)
