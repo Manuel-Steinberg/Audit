@@ -77,6 +77,7 @@
 - [ ] use `.preventDefault()` for JS event listeners.
 - [ ] avoid `target="_blank" in anchors
 - [ ] use numeric seperators for large numbers (1_000_000) for readibility
+- [ ] create  `javascript: document.designMode="on";void 0;` bookmarklet (to activate design mode)
 
 ## Snippets
 
