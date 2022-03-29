@@ -37,6 +37,7 @@
 - [ ] use `<svg>`-icons/graphics and so on
 - [ ] use the `<picture>`-HTML element (`<img>`as a fallback)
 - [ ] use prefetch methods like lazy-load when possible, e.g., `loading='lazy'` in `<img ... >`
+- [ ] don’t lazy-load LCP elements
 - [ ] use `<link rel="preconnect">` and `<link rel="dns-prefetch">` to the CDN domain(s).
 - [ ] inline critical CSS
 - [ ] use `Keep-Alive` header (less TCP connections)
