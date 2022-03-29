@@ -69,6 +69,7 @@
 - [ ] use `.map()` method for array manipulations
 - [ ] use `console.table()` in JS to print debug information
 - [ ] use `<use>` to eliminate duplicates within svg
+- [ ] use `<img>` over CSS `background-image`  
 
 
 
