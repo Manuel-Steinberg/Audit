@@ -37,7 +37,6 @@
 - [ ] use `<svg>`-icons/graphics and so on
 - [ ] use the `<picture>`-HTML element (`<img>`as a fallback)
 - [ ] use prefetch methods like lazy-load when possible, e.g., `loading='lazy'` in `<img ... >`
-- [ ] don’t lazy-load LCP elements
 - [ ] use `<link rel="preconnect">` and `<link rel="dns-prefetch">` to the CDN domain(s).
 - [ ] inline critical CSS
 - [ ] use `Keep-Alive` header (less TCP connections)
@@ -91,3 +90,4 @@
 - [How to Load Fonts in a Way That Fights FOUT and Makes Lighthouse Happy](https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/)
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
 - [Using Performant Next-Gen Images in CSS with image-set](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/)
+- [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
