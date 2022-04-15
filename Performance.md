@@ -70,6 +70,8 @@
 - [ ] use `console.table()` in JS to print debug information
 - [ ] use `<use>` to eliminate duplicates within svg
 - [ ] use `<img>` over CSS `background-image`  
+- [ ] Functions are faster than static methods are faster than object methods
+- [ ] Call by Value is slightly faster than Call by Reference
 
 
 
