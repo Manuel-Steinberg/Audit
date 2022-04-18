@@ -154,3 +154,4 @@ document.getElementById("myButton").addEventListener("click", function(event){
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 - [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon)
 - [Useful Bookmarklets to Boost Web Development](https://css-tricks.com/web-development-bookmarklets/)
+- [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
