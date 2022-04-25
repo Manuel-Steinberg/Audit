@@ -72,6 +72,7 @@
 - [ ] use `<img>` over CSS `background-image`  
 - [ ] Functions are faster than static methods are faster than object methods
 - [ ] Call by Value is slightly faster than Call by Reference
+- [ ] use native functions, e.g., `navigator.clipboard.writeText()`
 
 
 
