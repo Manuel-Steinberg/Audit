@@ -155,3 +155,4 @@ document.getElementById("myButton").addEventListener("click", function(event){
 - [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon)
 - [Useful Bookmarklets to Boost Web Development](https://css-tricks.com/web-development-bookmarklets/)
 - [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
+- [Specify theme context for images](https://codepen.io/Manuel-Steinberg/pen/mdXMrJX)
