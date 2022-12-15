@@ -76,6 +76,7 @@
 - [ ] update outdated code
 - [ ] use `download` attribute with caution, e.g., `<a href='/file.exe' download>`
 - [ ] add `security.txt`file
+- [ ] block all images being accessed with a referrer that is not the expected domain name
 
 
 
