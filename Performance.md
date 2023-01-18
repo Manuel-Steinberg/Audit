@@ -73,8 +73,19 @@
 - [ ] Functions are faster than static methods are faster than object methods
 - [ ] Call by Value is slightly faster than Call by Reference
 - [ ] use native functions, e.g., `navigator.clipboard.writeText()`
+- [ ] do not use async-snippets in JS
 
+## Snippets 
 
+[Asnyc JS snippets are an anti-pattern](https://csswizardry.com/2022/10/speeding-up-async-snippets/)
+
+```javasacript
+<script>
+  var script = document.createElement('script');
+  script.src = 'file.js';
+  document.head.appendChild(script);
+</script>
+```
 
 ## External Resources:
 
