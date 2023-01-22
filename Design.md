@@ -157,3 +157,4 @@ document.getElementById("myButton").addEventListener("click", function(event){
 - [How we lost 54k GitHub stars](https://httpie.io/blog/stardust)
 - [Specify theme context for images](https://codepen.io/Manuel-Steinberg/pen/mdXMrJX)
 - [Obscure CSS: Implicit List-Item Counter](https://kizu.dev/list-item-counter/)
+- [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
