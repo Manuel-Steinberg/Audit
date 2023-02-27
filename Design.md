@@ -77,6 +77,8 @@
 - [ ] use `.preventDefault()` for JS event listeners.
 - [ ] avoid `target="_blank" in anchors
 - [ ] use numeric seperators for large numbers (1_000_000) for readibility
+- [ ] interactive elements should disable `user-select` for inner content
+- [ ] use `-webkit-font-smoothing: antialiased` and `text-rendering: optimizeLegibility` for fonts
 
 ## Snippets
 
@@ -158,3 +160,4 @@ document.getElementById("myButton").addEventListener("click", function(event){
 - [Specify theme context for images](https://codepen.io/Manuel-Steinberg/pen/mdXMrJX)
 - [Obscure CSS: Implicit List-Item Counter](https://kizu.dev/list-item-counter/)
 - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
+- [Accessibility Overview](https://allforwebforall.com/)
