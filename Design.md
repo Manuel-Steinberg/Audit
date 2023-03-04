@@ -79,6 +79,7 @@
 - [ ] use numeric seperators for large numbers (1_000_000) for readibility
 - [ ] interactive elements should disable `user-select` for inner content
 - [ ] use `-webkit-font-smoothing: antialiased` and `text-rendering: optimizeLegibility` for fonts
+- [ ] do not style browser scrollbar
 
 ## Snippets
 
