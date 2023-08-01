@@ -115,6 +115,16 @@
 }
 ```
 
+```CSS
+/* Spot missing alt-attr for images*/
+
+mg[alt=""],
+img:not([alt]) {
+    outline: 5px dashed red;
+}
+```
+
+
 ```JS
 /* Event Handler != Event Listener */
 
