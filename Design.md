@@ -80,6 +80,7 @@
 - [ ] interactive elements should disable `user-select` for inner content
 - [ ] use `-webkit-font-smoothing: antialiased` and `text-rendering: optimizeLegibility` for fonts
 - [ ] do not style browser scrollbar
+- [ ] use `text-wrap: balance;` for balanced line-breaks
 
 ## Snippets
 
