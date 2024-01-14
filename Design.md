@@ -81,6 +81,7 @@
 - [ ] use `-webkit-font-smoothing: antialiased` and `text-rendering: optimizeLegibility` for fonts
 - [ ] do not style browser scrollbar
 - [ ] use `text-wrap: balance;` for balanced line-breaks
+- [ ] use `title` HTML element to respect the current status of your website
 
 ## Snippets
 
