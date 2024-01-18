@@ -74,6 +74,7 @@
 - [ ] Call by Value is slightly faster than Call by Reference
 - [ ] use native functions, e.g., `navigator.clipboard.writeText()`
 - [ ] do not use async-snippets in JS
+- [ ] use `navigator.share` rather than third party libraries
 
 ## Snippets 
 
