@@ -52,6 +52,7 @@
 - [ ] avoid disabled buttons, only show active buttons
 - [ ] keep a good contrast always
 - [ ] use color-palettes (max. 5)
+- [ ] write `alt` text like you are talking to a friend
 - [ ] use font-palettes (max. 2)
 - [ ] use less _border_
 - [ ] Less animations / moving objects
