@@ -74,7 +74,13 @@
 - [ ] Call by Value is slightly faster than Call by Reference
 - [ ] use native functions, e.g., `navigator.clipboard.writeText()`
 - [ ] do not use async-snippets in JS
+- [ ] use `display:none` for hiding/showing over creating new elements
 - [ ] use `navigator.share` rather than third party libraries
+- [ ] use `textContent` over `innerText` for reading the content of an element
+- [ ] use `insertAdjacentHTML` or `appendChild` over `innerHTML`
+- [ ] use the once param for one and done events
+
+
 
 ## Snippets 
 
@@ -86,6 +92,12 @@
   script.src = 'file.js';
   document.head.appendChild(script);
 </script>
+```
+
+```javascript
+el.addEventListener('click', handleClick, {
+  once: true
+});
 ```
 
 ## External Resources:
