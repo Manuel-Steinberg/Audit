@@ -83,6 +83,7 @@
 - [ ] do not style browser scrollbar
 - [ ] use `text-wrap: balance;` for balanced line-breaks
 - [ ] use `title` HTML element to respect the current status of your website
+- [ ] use `text-box-trim` for text balancing
 
 ## Snippets
 
